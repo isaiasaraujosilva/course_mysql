@@ -1,0 +1,1 @@
+SELECT payment_date, LEFT(payment_date,11) AS Data , RIGHT(payment_date,8) AS Hora FROM payment;

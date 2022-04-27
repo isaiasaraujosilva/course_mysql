@@ -1,0 +1,1 @@
+SELECT payment_date, LEFT(payment_date,11) AS data FROM payment;
