@@ -1,0 +1,1 @@
+SELECT COUNT(amount) AS qtd_registros_pag FROM payment;
