@@ -23,4 +23,6 @@ Seção 9
     4.4 MAX - utilizado para retornar o maior valor de uma coluna
     4.5 MIN - utilizado para retornar o menor valor de uma coluna
     4.6 SUM - utilizado para retornar a soma valor de uma coluna
-    
+ Seção 11
+  5.0 Funções - Data
+    5.1
