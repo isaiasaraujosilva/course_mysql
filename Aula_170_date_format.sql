@@ -1,0 +1,1 @@
+SELECT DATE_FORMAT(last_update,"%d/%m/%y") FROM actor;
